@@ -67,7 +67,6 @@ class CreateFile {
     }
     
 }
-//calling our methods
 class Files extends CreateFile {
     public static void main(String[] args){
         Files myNewFile = new Files();
